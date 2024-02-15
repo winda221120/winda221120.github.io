@@ -2,19 +2,19 @@
 ---
 Sangat baik, mari kita jelajahi bagaimana membuat sebuah database terlebih dahulu sebelum membuat tabel. Database merupakan kumpulan dari tabel, yang digunakan untuk menyimpan data terkait dalam satu tempat. Berikut langkah-langkah untuk membuat database:
 
-1. Membuat Database Baru:
+### 1. Membuat Database Baru:
 Anda dapat menggunakan perintah CREATE DATABASE untuk membuat database baru. Misalnya, jika kita ingin membuat database dengan nama "sekolah":
 
 sql
 Copy code
 CREATE DATABASE sekolah;
-2. Memilih Database yang Dibuat:
+### 2. Memilih Database yang Dibuat:
 Ketika Anda membuat atau ingin berinteraksi dengan database tertentu, Anda harus memilihnya terlebih dahulu. Anda dapat menggunakan perintah USE untuk memilih database yang ingin Anda gunakan:
 
 sql
 Copy code
 USE sekolah;
-3. Membuat Tabel dalam Database:
+### 3. Membuat Tabel dalam Database:
 Setelah memilih database yang sesuai, Anda dapat membuat tabel di dalamnya menggunakan perintah CREATE TABLE. Misalnya, mari kita gunakan tabel "biodata_siswa" seperti yang telah kita buat sebelumnya:
 
 sql
@@ -26,7 +26,7 @@ CREATE TABLE biodata_siswa (
     jenis_kelamin ENUM('Laki-laki', 'Perempuan'),
     alamat TEXT
 );
-4. Memasukkan Data ke dalam Tabel:
+### 4. Memasukkan Data ke dalam Tabel:
 Setelah tabel dibuat, Anda dapat memasukkan data ke dalamnya menggunakan perintah INSERT INTO. Sebagai contoh:
 
 sql
