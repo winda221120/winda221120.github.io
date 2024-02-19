@@ -38,3 +38,6 @@ INSERT INTO biodata_siswa (nama, usia, jenis_kelamin, alamat) VALUES
 Dengan langkah-langkah ini, Anda telah berhasil membuat sebuah database baru bernama "sekolah", membuat sebuah tabel "biodata_siswa" di dalamnya, serta memasukkan beberapa data contoh ke dalam tabel tersebut. Sekarang Anda bisa menjalankan berbagai operasi database dan tabel lainnya sesuai kebutuhan Anda.
 
 User
+---
+---
+![assets](/mariaDB.PNG)
