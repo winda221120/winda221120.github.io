@@ -50,5 +50,5 @@ Itulah langkah-langkah umum untuk menggunakan Jekyll untuk membuat situs web sta
 
 
 
-
+![assets](/assets/jekyll.PNG)
 
