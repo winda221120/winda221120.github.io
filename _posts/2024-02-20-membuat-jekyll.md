@@ -48,7 +48,7 @@ git push origin master)
 
 Itulah langkah-langkah umum untuk menggunakan Jekyll untuk membuat situs web statis di GitHub. Pastikan untuk menyesuaikan konten dan konfigurasi sesuai dengan kebutuhan spesifik Anda.
 
-
+assets/jekyll.PNG
 
 
 
