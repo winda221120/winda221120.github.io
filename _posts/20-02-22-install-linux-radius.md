@@ -14,3 +14,8 @@
 ### 6. lalu ctrl o dan ctrl x
 
 ### 7. ctrl c dn ctrl x
+
+![assets](/assets/linux.PNG)
+
+bapak trakhir inilah hasilnya saya tidak tahu permasalahnya, tadi bapak bilang anti dulu jadi seperti inilah jadinya,
+teman-teman yang lain sudah mencoba untuk membuat tapi hasilnya  nihil tetap saja sama. 😢: 💙:
